@@ -1,0 +1,2 @@
+# yingjimanage
+springboot基于SpringBoot+Vue的常规应急物资管理系统
